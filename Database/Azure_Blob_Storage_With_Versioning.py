@@ -7,7 +7,7 @@ from collections import Counter
 
 # Enter credentials
 account_name = 'barclaysstorage'
-account_key = 'w7fJMnkuaZR4RX9LJbTRld8v90S6KDupj1BDHNZ1+Ch9Do7Et56nQKAd2HVXJqgZYEVbcGY/CGRj+AStE2NEXQ=='
+account_key = ''
 container_name = 'data'
 
 # Create a client to interact with blob storage
