@@ -48,7 +48,7 @@ class FormRecognizerExtractor:
 if __name__ == "__main__":
     # Azure credentials
     endpoint = "https://barclaysform.cognitiveservices.azure.com/"
-    api_key = "63spGg0VYFV0kWZB3nmsFDp8yEbi40zmEnCvIl6D8Seih4YyLsp9JQQJ99BDACYeBjFXJ3w3AAALACOGh5hu"
+    api_key = ""
 
     # Initialize extractor
     extractor = FormRecognizerExtractor(endpoint, api_key)
