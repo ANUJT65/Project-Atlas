@@ -10,7 +10,7 @@ import uuid
 
 # Cosmos DB Configuration
 COSMOS_URL = "https://barclaysdb.documents.azure.com:443/"
-COSMOS_KEY = "ercuc7wFNt4RPsxcx2QTzKP8AhKUDnjJrt0mpZrW2Yi2IQGAa7wDrEbhKRHsurGu0P7GuGny4IZRACDbtecfNQ=="
+COSMOS_KEY = ""
 DATABASE_NAME = 'RequirementsDB'
 
 # Blob Storage Configuration
