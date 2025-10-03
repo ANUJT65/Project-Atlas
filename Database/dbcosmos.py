@@ -6,7 +6,7 @@ from azure.cosmos.exceptions import CosmosResourceExistsError, CosmosHttpRespons
 from azure.cosmos.partition_key import PartitionKey
 
 URL = "https://barclaysdb.documents.azure.com:443/"
-KEY = "ercuc7wFNt4RPsxcx2QTzKP8AhKUDnjJrt0mpZrW2Yi2IQGAa7wDrEbhKRHsurGu0P7GuGny4IZRACDbtecfNQ=="
+KEY = ""
 
 # Create all database operations inside an async function
 async def cosmos_operations():
